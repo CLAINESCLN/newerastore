@@ -1,0 +1,17 @@
+D:\SAD\SalesAndInventory\SalesAndInventory\bin\Debug\SalesAndInventory.exe.config
+D:\SAD\SalesAndInventory\SalesAndInventory\bin\Debug\SalesAndInventory.exe
+D:\SAD\SalesAndInventory\SalesAndInventory\bin\Debug\SalesAndInventory.pdb
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.csprojResolveAssemblyReference.cache
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmFileMain.resources
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.Properties.Resources.resources
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.csproj.GenerateResource.Cache
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.exe
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.pdb
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmCategoryMaintenance.resources
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmSubCategoryMaintenance.resources
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmSupplierMaintenance.resources
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmVatMaintenance.resources
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmProduct.resources
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmUnit.resources
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmDiscount.resources
+D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmRefrigirated.resources
