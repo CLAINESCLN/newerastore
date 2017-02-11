@@ -12,6 +12,8 @@ namespace SalesAndInventory
 {
     public partial class frmFileMain : Form
     {
+        public frmHome Home { set; get; }
+
         public frmFileMain()
         {
             InitializeComponent();
@@ -25,7 +27,7 @@ namespace SalesAndInventory
 
         private void frmFileMain_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void btnSubCatMain_Click(object sender, EventArgs e)
@@ -73,6 +75,12 @@ namespace SalesAndInventory
         {
             frmDiscount frmDiscount = new frmDiscount();
             frmDiscount.ShowDialog();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Home.Show();
         }
     }
 }

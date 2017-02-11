@@ -15,3 +15,23 @@ D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmProduc
 D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmUnit.resources
 D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmDiscount.resources
 D:\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmRefrigirated.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\bin\Debug\SalesAndInventory.exe.config
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.exe
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.pdb
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\bin\Debug\SalesAndInventory.exe
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\bin\Debug\SalesAndInventory.pdb
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.csprojResolveAssemblyReference.cache
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmFileMain.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmCategoryMaintenance.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmDiscount.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmProduct.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmRefrigirated.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmSubCategoryMaintenance.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmSupplierMaintenance.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmUnit.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmVatMaintenance.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.Properties.Resources.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.csproj.GenerateResource.Cache
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\bin\Debug\MySql.Data.dll
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmHome.resources
+C:\Users\'AiR-Shadow'\Desktop\New Era Store\SAD\SalesAndInventory\SalesAndInventory\obj\Debug\SalesAndInventory.frmLogin.resources
