@@ -12,7 +12,7 @@ namespace SalesAndInventory.Classes
         private static string server = "localhost";
         private static string port = "3306";
         private static string username = "root";
-        private static string password = "Algorithm031916";
+        private static string password = "";
         private static string database = "newerastore";
 
         private static string getConnectionString()
